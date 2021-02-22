@@ -3,7 +3,7 @@
 ### I'm Tobias
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
-- An Undergraduate Computer Science Student. | Class of 2023 🎓🎓🎓 
+- A Undergraduate Computer Science Student | Class of 2023 🎓🎓🎓 
 - 🌱 Currently working in Columbus, OH (With an open desire to explore the world! 🗺️).
 - 💬 Ready.. Set.. Ask🤘🏽! I am completely open to collaborating on something fun! 🤝🤝
 - ⭐ You may like [BeerBreweryBible](https://github.com/Tobias2023/beer-brewery-bible) 🍺🍺

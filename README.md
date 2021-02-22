@@ -1,8 +1,5 @@
 ## Hello GitHub Fans 👋
-<!--
-**Tobias2023/tobias2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
 ### I'm Tobias
 <img align="right" alt="GIF" src="https://gph.is/g/ap0YjGy" />
 

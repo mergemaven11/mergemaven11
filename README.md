@@ -1,4 +1,4 @@
-## Hello GitHub Fans 👋
+## Hello GitHub 👋
 
 ### I'm Tobias
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />

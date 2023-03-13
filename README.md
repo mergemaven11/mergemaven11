@@ -1,13 +1,11 @@
-## Hello GitHub 👋
+## 👋👋👋
 
 ### I'm Tobias
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRmOTk1NGU3MmY5NjUwYjQyNTI5NDBmMDdiMzA5OWJlNzUzNDliNyZjdD1n/jVAt83ieT49H6ja5Ty/giphy.gif" />
 
-- 🌱 Currently working in Atlanta, GA (With an open desire to explore the world! 🗺️)
-- 💬 Ready.. Set.. Ask🤘🏽! I am completely open to collaborating on something fun! 🤝🤝
-- ⭐ You may like [BeerBreweryBible](https://github.com/Tobias2023/beer-brewery-bible) 🍺🍺
-- ⚡ Fun fact: Gaming Monster!! 🎮🎮
+- 🌱 Currently working in Atlanta, GA
 - 😄 Pronouns: (He/Him)
+- ⚡ Fun fact: Gaming Monster!! 🎮🎮
 
 **Languages and Tools:**
 

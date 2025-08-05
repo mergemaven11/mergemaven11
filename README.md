@@ -29,7 +29,7 @@
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/TobiasCodes12) 🐤
 - [LinkedIn](https://www.linkedin.com/in/tobias-scott-he-him-b3572751/) 👨💼
-- [Website](https://tcs-porfolio.app/) 😏🔗
+- [Website](https://tcs-portfolio.netlify.app/) 😏🔗
 
 
 

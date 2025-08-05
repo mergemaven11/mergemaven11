@@ -13,22 +13,23 @@
   To get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<p align="center">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="ESLint" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="NodeJS" />
+</p>
 
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/TobiasCodes12) 🐤
 - [LinkedIn](https://www.linkedin.com/in/tobias-scott-he-him-b3572751/) 👨💼
-- [Website](https://tobiascscott.com/) 😏🔗
+- [Website](https://tcs-porfolio.app/) 😏🔗
 
 
 
